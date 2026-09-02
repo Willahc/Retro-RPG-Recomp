@@ -1,0 +1,21 @@
+return {
+    id = "lacroan_jp_rev0",
+    displayName = "SD Gundam Gaiden: Lacroan' Heroes (Japan)",
+    title = "GB LACROANHERO 1",
+    size = 131072,
+    bankSize = 0x4000,
+    banks = 8,
+    cartridgeType = 0x06,
+    mapper = "MBC2+BATTERY",
+    romSizeCode = 0x02,
+    ramSizeCode = 0x00,
+    destinationCode = 0x00,
+    revision = 0,
+    headerChecksum = 0x05,
+    globalChecksum = 0x1B3C,
+    crc32 = "c9dbba10",
+    md5 = "5c815764df1d3c04d99a9bc5b298aa2c",
+    sha1 = "bc598168a70bbbc1b89b3de13086ec89e8ce9ded",
+    sha256 = "fdbf98df05d2af9f81b2ae09b06c651987d5eb92d222758c2281b631077c8f5a",
+}
+
