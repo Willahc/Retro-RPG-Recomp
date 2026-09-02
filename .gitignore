@@ -1,0 +1,25 @@
+# Proprietary game files must never be committed.
+*.gb
+*.gbc
+*.sav
+*.srm
+*.state
+*.zip
+
+# Private, ROM-derived output.
+data/generated/
+assets/generated/
+private/
+baseroms/
+
+# Local tooling and editor files.
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.vscode/
+.idea/
+*.love
+dist/
+build/
+
